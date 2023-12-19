@@ -15,7 +15,7 @@ const navigation = () => {
         <div class="flex items-center justify-between">
           <a
             class="flex-none text-xl font-semibold text-white dark:text-gray-800"
-            href="#"
+            href="/"
           >
             <img src={logo} alt="Logo" />
           </a>
@@ -68,26 +68,26 @@ const navigation = () => {
           <div class="flex flex-col gap-5 mt-5 sm:flex-row sm:items-center sm:justify-end sm:mt-0 sm:ps-5">
             <a
               class="font-medium text-white dark:focus:outline-none dark:focus:ring-1 dark:focus:ring-gray-600"
-              href="#"
+              href="/"
               aria-current="page"
             >
               Services
             </a>
             <a
               class="font-medium text-gray-400 hover:text-gray-500 dark:text-gray-500 dark:hover:text-gray-400 dark:focus:outline-none dark:focus:ring-1 dark:focus:ring-gray-600"
-              href="#"
+              href="/"
             >
               About Us
             </a>
             <a
               class="font-medium text-gray-400 hover:text-gray-500 dark:text-gray-500 dark:hover:text-gray-400 dark:focus:outline-none dark:focus:ring-1 dark:focus:ring-gray-600"
-              href="#"
+              href="/"
             >
               Contact Us
             </a>
             <a
               class="font-medium text-gray-400 hover:text-gray-500 dark:text-gray-500 dark:hover:text-gray-400 dark:focus:outline-none dark:focus:ring-1 dark:focus:ring-gray-600"
-              href="#"
+              href="/"
             >
               Careers
             </a>

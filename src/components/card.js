@@ -10,7 +10,7 @@ const card = (props) => {
         <img
           class="object-contain mx-auto md:w-1/4"
           src={props.imageURL}
-          alt="Card Image"
+          alt="Services"
         />
         <div class="">
           <div class="py-5">

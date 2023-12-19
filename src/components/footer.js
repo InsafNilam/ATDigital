@@ -143,41 +143,71 @@ const footer = () => {
               </p>
               <ul class="mt-6 space-y-4 text-sm">
                 <li>
-                  <a href="#" class="text-white transition hover:opacity-75">
+                  <a
+                    rel="noreferrer"
+                    target="_blank"
+                    href="https://react.dev/"
+                    class="text-white transition hover:opacity-75"
+                  >
                     {" "}
                     ReactJS{" "}
                   </a>
                 </li>
 
                 <li>
-                  <a href="#" class="text-white transition hover:opacity-75">
+                  <a
+                    rel="noreferrer"
+                    target="_blank"
+                    href="https://www.gatsbyjs.com/"
+                    class="text-white transition hover:opacity-75"
+                  >
                     {" "}
-                    Gatsby{" "}
+                    GatsbyJS{" "}
                   </a>
                 </li>
 
                 <li>
-                  <a href="#" class="text-white transition hover:opacity-75">
+                  <a
+                    rel="noreferrer"
+                    target="_blank"
+                    href="https://nextjs.org/"
+                    class="text-white transition hover:opacity-75"
+                  >
                     {" "}
                     NextJS{" "}
                   </a>
                 </li>
 
                 <li>
-                  <a href="#" class="text-white transition hover:opacity-75">
+                  <a
+                    rel="noreferrer"
+                    target="_blank"
+                    href="https://nodejs.org/en"
+                    class="text-white transition hover:opacity-75"
+                  >
                     {" "}
                     NodeJS{" "}
                   </a>
                 </li>
 
                 <li>
-                  <a href="#" class="text-white transition hover:opacity-75">
+                  <a
+                    rel="noreferrer"
+                    target="_blank"
+                    href="https://graphql.org/"
+                    class="text-white transition hover:opacity-75"
+                  >
                     {" "}
                     GraphQL{" "}
                   </a>
                 </li>
                 <li>
-                  <a href="#" class="text-white transition hover:opacity-75">
+                  <a
+                    rel="noreferrer"
+                    target="_blank"
+                    href="https://laravel.com/"
+                    class="text-white transition hover:opacity-75"
+                  >
                     {" "}
                     Laravel{" "}
                   </a>
@@ -190,33 +220,58 @@ const footer = () => {
 
               <ul class="mt-6 space-y-4 text-sm">
                 <li>
-                  <a href="#" class="text-white transition hover:opacity-75">
+                  <a
+                    rel="noreferrer"
+                    target="_blank"
+                    href="https://www.investopedia.com/terms/s/social-media-marketing-smm.asp"
+                    class="text-white transition hover:opacity-75"
+                  >
                     {" "}
                     Social media Marketing{" "}
                   </a>
                 </li>
 
                 <li>
-                  <a href="#" class="text-white transition hover:opacity-75">
+                  <a
+                    rel="noreferrer"
+                    target="_blank"
+                    href="https://www.toptal.com/app/developing-mobile-web-apps-when-why-and-how"
+                    class="text-white transition hover:opacity-75"
+                  >
                     {" "}
                     Web & Mobile App Development{" "}
                   </a>
                 </li>
 
                 <li>
-                  <a href="#" class="text-white transition hover:opacity-75">
+                  <a
+                    rel="noreferrer"
+                    target="_blank"
+                    href="https://www.gartner.com/en/topics/data-and-analytics"
+                    class="text-white transition hover:opacity-75"
+                  >
                     {" "}
                     Data & Analytics{" "}
                   </a>
                 </li>
                 <li>
-                  <a href="#" class="text-white transition hover:opacity-75">
+                  <a
+                    rel="noreferrer"
+                    target="_blank"
+                    href="https://support.google.com/marketingplatform/answer/9013946?hl=en"
+                    class="text-white transition hover:opacity-75"
+                  >
                     {" "}
                     Google Marketing solutions{" "}
                   </a>
                 </li>
                 <li>
-                  <a href="#" class="text-white transition hover:opacity-75">
+                  <a
+                    rel="noreferrer"
+                    target="_blank"
+                    href="https://searchengineland.com/guide/what-is-seo#:~:text=SEO%20stands%20for%20%E2%80%9Csearch%20engine,Services%20you%20provide."
+                    class="text-white transition hover:opacity-75"
+                  >
                     {" "}
                     Search Engine Optimization{" "}
                   </a>
