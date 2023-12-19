@@ -17,7 +17,7 @@ const navigation = () => {
             class="flex-none text-xl font-semibold text-white dark:text-gray-800"
             href="#"
           >
-            <img src={logo} />
+            <img src={logo} alt="Logo" />
           </a>
           <div class="sm:hidden">
             <button

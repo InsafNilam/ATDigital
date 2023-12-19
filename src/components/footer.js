@@ -8,7 +8,7 @@ const footer = () => {
         <div class="grid grid-cols-1 gap-8 lg:grid-cols-4">
           <div className="lg:col-span-2">
             <div class="text-teal-600">
-              <img src={logo} className="object-left" />
+              <img src={logo} className="object-left" alt="Logo" />
             </div>
 
             <p class="mt-4 max-w-xs text-gray-500 text-left text-white">

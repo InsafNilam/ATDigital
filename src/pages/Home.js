@@ -17,7 +17,7 @@ export const Home = () => {
           <img
             // style={{ filter: `drop-shadow(0 0 0.75rem blue)` }}
             src={background}
-            alt=""
+            alt="Background Image"
             class="w-full h-auto"
           />
           <div
